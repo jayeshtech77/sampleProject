@@ -1,0 +1,3 @@
+Sentence 1 is added and ready to be added/staged for commit. Do git add, but Do NOT commit the file and again add a new line to this file and again add this for commit, then commit the file locally and then push to main branch.
+
+New Line added in the text file. Again do a "git add" to add these files in your local repository and stages the files for commit.
